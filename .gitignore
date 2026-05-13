@@ -1,0 +1,28 @@
+# Files in Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# dart compiler files
+*.exe
+*.js
+*.js.map
+*.js_
+*.wasm
+
+# Dependency overriding
+pubspec.lock
+
+# IDE Config files
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# log files
+.DS_Store
+erl_crash.dump
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
