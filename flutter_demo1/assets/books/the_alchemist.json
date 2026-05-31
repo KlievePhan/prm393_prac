@@ -1,0 +1,24 @@
+{
+  "id": "the_alchemist",
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "description": "A mystical story about following your dreams and listening to your heart on the journey to find treasure.",
+  "coverHue": 42,
+  "chapters": [
+    {
+      "title": "The Boy and His Sheep",
+      "pages": [
+        "The boy's name was Santiago. Dusk was falling as the boy arrived with his herd at an abandoned church. The roof had fallen in long ago, and an enormous sycamore had grown on the spot where the sacristy had once stood.\n\nHe decided to spend the night there. He saw to it that all the sheep entered through the ruined gate, and then laid some planks across it to prevent the flock from wandering away during the night.",
+        "There were mysterious things in life that were open only to those who love them. He had always believed that the sheep were able to understand what he said. So there were times when he read them parts of his books that had made an impression on him, or when he would tell them of the loneliness or the happiness of a shepherd in the fields.",
+        "He awoke before dawn. He had had the same dream that night as a week ago, and once again he had awakened before it ended. He arose and, taking up his crook, began to awaken the sheep that still slept."
+      ]
+    },
+    {
+      "title": "The King of Salem",
+      "pages": [
+        "The old man wore a breastplate of gold, and he knew the boy's name. He said he was the king of Salem, and that he had appeared because the boy was about to abandon his search for treasure.\n\n\"When you want something, all the universe conspires in helping you to achieve it,\" the old man said.",
+        "The boy was shaken. He had met only one person who knew about his treasure, and that person was a fortune teller. Now this stranger was speaking of the same thing.\n\nThe king gave him two stones, Urim and Thummim, and told him to follow the omens."
+      ]
+    }
+  ]
+}
